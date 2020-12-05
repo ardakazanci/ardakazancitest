@@ -54,11 +54,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
+    <img alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" align="right" />
+    <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
 </p>
 
 ---
