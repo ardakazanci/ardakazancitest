@@ -55,16 +55,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 **My Stats**
 
-
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true" />
 </a>
-
-
-
+  /p>
+  
+---
 
 <p align="center">
   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
@@ -72,8 +72,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
     <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
 </p>
-
-
 
 ---
 
