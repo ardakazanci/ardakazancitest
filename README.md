@@ -55,9 +55,20 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 **My Stats**
 
-![Arda Kazancı's github stats](https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&line_height=21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Arda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&line_height=21" />
+</a>
+
+
+
+
 
 
 <p align="center">
