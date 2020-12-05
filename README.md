@@ -23,7 +23,7 @@
 - 👯 I am looking for volunteer colleagues to work for my company.🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- 📫 How to reach me: akazancidvp@gmail.com;
 
 **Languages and Tools:** 
 
