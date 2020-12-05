@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kzncrda/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akazancidvp@gmail.com)
 
-&nbsp;
+
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
