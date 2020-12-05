@@ -60,7 +60,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&hide=contribs" />
 </a>
   </p>
   
