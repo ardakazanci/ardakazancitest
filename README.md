@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning Kotlin and Flow.
 - 👯 I am looking for volunteer colleagues to work for my company.🤝
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
+- ⚡️ Fun-Fact: I have a degree in CEIT;
 - 📫 How to reach me: akazancidvp@gmail.com;
 
 **Languages and Tools:** 
