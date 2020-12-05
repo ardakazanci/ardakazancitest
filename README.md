@@ -57,10 +57,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true" />
 </a>
   </p>
   
