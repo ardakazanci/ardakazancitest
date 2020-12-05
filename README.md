@@ -53,6 +53,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 </p>
 
+**My Stats**
+
+![Arda Kazancı's github stats](https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&line_height=21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardakazanci&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
@@ -60,6 +65,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
     <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
 </p>
+
+
 
 ---
 
