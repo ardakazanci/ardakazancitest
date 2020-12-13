@@ -25,9 +25,11 @@
 - ⚡️ Fun-Fact: I have a degree in CEIT;
 - 📫 How to reach me: akazancidvp@gmail.com;
 
-**Languages and Tools:** 
 
-<!-- Your github readme stats
+
+<!-- 
+**Languages and Tools:** 
+Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
