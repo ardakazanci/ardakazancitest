@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Your title -->
-## Hi, I'm Arda, a Developer 🚀 from Turkey.
+## I'm Arda, a Developer 🚀 from Turkey.
 
 
 
