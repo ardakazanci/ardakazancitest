@@ -67,7 +67,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 ---
 
-<p align="center">
+<p>
   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
     <img alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
   </a>
