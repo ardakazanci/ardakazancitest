@@ -56,7 +56,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   
 **My Stats**
 
-<p align="center">
+<p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&layout=compact" />
