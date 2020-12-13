@@ -15,8 +15,8 @@
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="30%" align="right" alt="Github" src="https://i.imgur.com/yru8Y91.png" />
+<!-- Any image aligned to the right. Beware the width 
+<img width="30%" align="right" alt="Github" src="https://i.imgur.com/yru8Y91.png" /> -->
 
 - 👨🏻‍💻 I’m currently working on modern android application development techniques.
 - 🌱 I’m currently learning Kotlin and Flow.
