@@ -72,7 +72,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
 </p>
 
-[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda)](https://github.com/ardakazanci/github-readme-stats)
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/ardakazanci/github-readme-stats)
 
 
 ---
