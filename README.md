@@ -1,19 +1,83 @@
-<h1 align="center">Hi 👋, I'm Arda Kazancı</h1>
- <h3 align="center">A passionate Android Developer from Turkey</h3>
+### Hi there 👋
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakazanci&label=Profile%20views&color=0e75b6&style=flat" alt="ardakazanci" /> </p>
+ <!-- Your title -->
+ ## I'm Arda, a Developer 🚀 from Turkey.
 
- - 🌱 I’m currently learning **Kotlin Flow & Test**
 
- - 💬 Ask me about **Android programming**
 
- - 📫 How to reach me **nkflx2@gmail.com**
+ [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ardakazanci)
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardakazanci/)
+ [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kzncrda/)
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:akazancidvp@gmail.com)
 
- <h3 align="left">Connect with me:</h3>
- <p align="left">
- <a href="https://linkedin.com/in/ardakazanci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ardakazanci" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/5595926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="5595926" height="30" width="40" /></a>
+
+
+ <!-- Talking about you -->
+ **Talking about Personal Stuffs:**
+
+ <!-- Any image aligned to the right. Beware the width 
+ <img width="30%" align="right" alt="Github" src="https://i.imgur.com/yru8Y91.png" /> -->
+
+ - 👨🏻‍💻 I’m currently working on modern android application development techniques.
+ - 🌱 I’m currently learning Kotlin and Flow.
+ - 💬 Ask me about anything, I am happy to help;
+ - ⚡️ Fun-Fact: I have a degree in CEIT;
+ - 📫 How to reach me: akazancidvp@gmail.com;
+
+
+
+ <!-- 
+ **Languages and Tools:** 
+ Your github readme stats
+ You can use this api: https://github.com/anuraghazra/github-readme-stats
+ -->
+ <p>
+
+
+   <!-- Your languages and tools. Be careful with the alignment. 
+   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+   <br />
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+   <br />
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+   <br />
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+ </p>
+   -->
+
+ **My Stats**
+
+ <p>
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img  src="https://github-readme-stats.vercel.app/api?username=ardakazanci&show_icons=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&layout=compact" />
+ </a>
+   </p>
+
+   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kzncrda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)](https://github.com/ardakazanci/github-readme-stats)
+
+ ---
+
+ <p>
+   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
+     <img alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
+   </a>
+     <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
  </p>
 
- <h3 align="left">Languages and Tools:</h3>
- <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+
+
+ ---
+
+ ⭐️ From [ardakazanci](https://github.com/ardakazanci)
