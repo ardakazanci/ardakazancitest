@@ -69,14 +69,8 @@
  ---
 
  <p>
-   <a href="http://hits.dwyl.com/ardakazanci/Heyyoo" target="_blank">
-     <img alt="HitCount" src="http://hits.dwyl.com/ardakazanci/Heyyoo.svg" />
-   </a>
      <img src="https://komarev.com/ghpvc/?username=ardakazanci&color=blue&style=flat-square" />
  </p>
-
-
-
 
  ---
 
